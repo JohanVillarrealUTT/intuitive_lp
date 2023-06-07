@@ -1,0 +1,51 @@
+
+Cambios en la parte publica
+
+1.- cambio en el link "carrers" a "otras posiciones" -Listo
+
+2.- Cambio en el link "registro"  a "tecnico de ensamble" -Listo
+
+3.- cambio en el link "citas" a "cambiar cita" -Listo
+
+4.- Cambio en el texto "Disponibilidad para rotar y trabajar en cualquier turno" a "Disponibilidad de horario" -Listo
+
+5.- Remover texto *Habilidad para seguir instrucciones *Habilidad para ejecutar procesos de ensamble -Listo
+6.- Agregar en el registro como supiste de nossotros las opciones "Instagram", "LinkedIn" -Listo
+7.- Agregar correo de contacto y cambio de nombre en el contacto -Listo
+8.- En el formulario cuando selecione grado de estudio "Carrera tecnica","Preparatoria","Universidad" que pregunte por "ESCUELA", "CARRERA" --listo
+9.- Si selecciona cualquira de las tres opciones anteriroes son aceptados por el sistema --listo
+
+Cambios en el Admin
+
+1.- Editar y crear etiquetas nuevas - listo
+2.- Mejorar buscador --listo
+3.- Historial de citas --Listo
+    -agregar opcion asistio o no asistio y un campo de comentario
+4.-En el perfil del candidato poder crearle una cita y enviarle un correo con la cita. -Listo
+5.-Al rechazar el camdidato poder seleccionar el motivo de rechazo -Listo
+5.-En la parte de rechazados colocar un filtro por motivo de rechazo -Listo
+6.-poder editar los comentarios -Listo
+7.- filtro por etiquetas -Listo
+
+
+//////////////////////-------------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+1.- Cerrar el campo escuela y carrera cuando seleccione NO en el campo de estudia actualmente. y ponerlos como no obliatorio. --listo
+
+2.- Paso la fecha de la cita si no se le ha movido el estatus asignar uno automaticamente (los miercoles).--Listo
+
+3.- Los registros de enero se pondran como programada las anteriores no asignarle estatus.  --Listo
+
+4- Cambiar el status "Realizada" por "si asistio" en el historial de citas.--Listo
+
+5.- Descarga de DB de los aspirantes rechazaddos con su motivo.-Listo
+
+6.- Horario especial para los admins.  --Listo
+
+7.- Cerrar las fechas pasadas automaticamente.  --Listo
+
+8.- permitir que los rechazados por el admin, si puedan generarle cita --listo
+
+9.- Buscador que busque por nombre, nombre y segundo nombre y nombre segundo nombre y apellido paterno --listo
+
+

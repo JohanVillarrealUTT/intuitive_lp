@@ -1,0 +1,37 @@
+{
+	"statuses": [{
+		"value": "programada",
+		"label": "Programada"
+	},
+	{
+		"value": "si asistio",
+		"label": "Si asistio"
+	},
+	{
+		"value": "cancelada",
+		"label": "Cancelada"
+	},
+	{
+		"value": "no asistio",
+		"label": "No asistió"
+	}],
+	"rejectionReasons": [{
+		"value": "Entrevista RH",
+		"label": "Entrevista RH"
+	},{
+		"value": "Entrevista supervisor",
+		"label": "Entrevista supervisor"
+	},{
+		"value": "Screening",
+		"label": "Screening"
+	},{
+		"value": "Examen medico",
+		"label": "Examen medico"
+	},{
+		"value": "Validación de referencias",
+		"label": "Validación de referencias"
+	},{
+		"value": "Re ingreso no contratable",
+		"label": "Re ingreso no contratable"
+	}]
+}
